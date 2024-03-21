@@ -22,7 +22,7 @@ Vue 3 + Pinia + Vite - Basic HTTP Authentication
 
 # Development server:
 
-- npm start
+- npm run dev
 
 - You can view the development server at `localhost:3000`
 
