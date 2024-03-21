@@ -14,8 +14,6 @@ Vue 3 + Pinia + Vite - Basic HTTP Authentication
 - vite v2.9.16 Dev Server
 - VS Code is my developement tool
 
-# Usage
-
 # Installing
 
 - Make sure you have a new version of Node installed
@@ -32,7 +30,7 @@ Vue 3 + Pinia + Vite - Basic HTTP Authentication
 
 - npm run build
 
-# Preview before publish / Deployment
+# Preview before Publish / Deployment
 
 - npm run preview
 
