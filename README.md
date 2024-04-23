@@ -2,7 +2,7 @@
 
 Vue 3 + Pinia + Vite - Basic HTTP Authentication
 
-# Last updated
+# Last updated:
 
 - 23-04-2024
 
